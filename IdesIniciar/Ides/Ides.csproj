@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB554D31-8AFA-41F7-82C2-3F309B535C0D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ides</RootNamespace>
+    <AssemblyName>Ides</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Downloads\AForge.NET Framework-2.2.5-(libs only)\Release\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Downloads\AForge.NET Framework-2.2.5-(libs only)\Release\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Utilidades">
+      <HintPath>.\Utilidades.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\AlunoBLL.cs" />
+    <Compile Include="BLL\CursoBLL.cs" />
+    <Compile Include="BLL\MatriculaBLL.cs" />
+    <Compile Include="BLL\ProfessorBLL.cs" />
+    <Compile Include="BLL\TurmaBLL.cs" />
+    <Compile Include="BLL\UsuarioBLL.cs" />
+    <Compile Include="DAL\AlunoDAL.cs" />
+    <Compile Include="DAL\BackupDAL.cs" />
+    <Compile Include="DAL\Conexao.cs" />
+    <Compile Include="DAL\CursoDAL.cs" />
+    <Compile Include="DAL\MatriculaDAL.cs" />
+    <Compile Include="DAL\ProfessorDAL.cs" />
+    <Compile Include="DAL\RelatorioDAL.cs" />
+    <Compile Include="DAL\TurmaDAL.cs" />
+    <Compile Include="DAL\UsuarioDAL.cs" />
+    <Compile Include="UI\Aluno\frmCadastroAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Aluno\frmCadastroAluno.Designer.cs">
+      <DependentUpon>frmCadastroAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Aluno\frmCadastroSimplesAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Aluno\frmCadastroSimplesAluno.Designer.cs">
+      <DependentUpon>frmCadastroSimplesAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Consulta\frmConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Consulta\frmConsultas.Designer.cs">
+      <DependentUpon>frmConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\dsRelatorios.cs">
+      <DependentUpon>dsRelatorios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\dsRelatorios.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRelatorios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmConfiguracao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmConfiguracao.Designer.cs">
+      <DependentUpon>frmConfiguracao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmExcluir.Designer.cs">
+      <DependentUpon>frmExcluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmRelatorioAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmRelatorioAluno.Designer.cs">
+      <DependentUpon>frmRelatorioAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmRelatorioCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmRelatorioCurso.Designer.cs">
+      <DependentUpon>frmRelatorioCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmRelatorioMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmRelatorioMatricula.Designer.cs">
+      <DependentUpon>frmRelatorioMatricula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmRelatorioProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmRelatorioProfessor.Designer.cs">
+      <DependentUpon>frmRelatorioProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmRelatorioTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmRelatorioTurma.Designer.cs">
+      <DependentUpon>frmRelatorioTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmRelatorioUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmRelatorioUsuario.Designer.cs">
+      <DependentUpon>frmRelatorioUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmWebCam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmWebCam.Designer.cs">
+      <DependentUpon>frmWebCam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Usuário\frmCadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Usuário\frmCadastroUsuario.Designer.cs">
+      <DependentUpon>frmCadastroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Curso\frmCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Curso\frmCurso.Designer.cs">
+      <DependentUpon>frmCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Matricula\frmMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Matricula\frmMatricula.Designer.cs">
+      <DependentUpon>frmMatricula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmMensagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmMensagem.Designer.cs">
+      <DependentUpon>frmMensagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Professor\frmProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Professor\frmProfessor.Designer.cs">
+      <DependentUpon>frmProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmTelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmTelaPrincipal.Designer.cs">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Turma\frmTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Turma\frmTurma.Designer.cs">
+      <DependentUpon>frmTurma.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\frmConfiguracao.resx">
+      <DependentUpon>frmConfiguracao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmRelatorioMatricula.resx">
+      <DependentUpon>frmRelatorioMatricula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmRelatorioTurma.resx">
+      <DependentUpon>frmRelatorioTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmRelatorioUsuario.resx">
+      <DependentUpon>frmRelatorioUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\rptMatricula.rdlc" />
+    <EmbeddedResource Include="UI\rptTurma.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\Aluno\frmCadastroAluno.resx">
+      <DependentUpon>frmCadastroAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Aluno\frmCadastroSimplesAluno.resx">
+      <DependentUpon>frmCadastroSimplesAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Consulta\frmConsultas.resx">
+      <DependentUpon>frmConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmExcluir.resx">
+      <DependentUpon>frmExcluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmRelatorioAluno.resx">
+      <DependentUpon>frmRelatorioAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmRelatorioCurso.resx">
+      <DependentUpon>frmRelatorioCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmRelatorioProfessor.resx">
+      <DependentUpon>frmRelatorioProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmWebCam.resx">
+      <DependentUpon>frmWebCam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\rptAluno.rdlc" />
+    <EmbeddedResource Include="UI\rptCurso.rdlc" />
+    <EmbeddedResource Include="UI\rptProfessor.rdlc" />
+    <EmbeddedResource Include="UI\rptUsuario.rdlc" />
+    <EmbeddedResource Include="UI\Usuário\frmCadastroUsuario.resx">
+      <DependentUpon>frmCadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Curso\frmCurso.resx">
+      <DependentUpon>frmCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Matricula\frmMatricula.resx">
+      <DependentUpon>frmMatricula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmMensagem.resx">
+      <DependentUpon>frmMensagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Professor\frmProfessor.resx">
+      <DependentUpon>frmProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmTelaPrincipal.resx">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Turma\frmTurma.resx">
+      <DependentUpon>frmTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="UI\dsRelatorios.xsc">
+      <DependentUpon>dsRelatorios.xsd</DependentUpon>
+    </None>
+    <None Include="UI\dsRelatorios.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRelatorios.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="UI\dsRelatorios.xss">
+      <DependentUpon>dsRelatorios.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aluno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\professor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\matricula.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\curso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ides.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\novo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\busca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\erro.cpf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.cpf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iniciar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idesIniciar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WallpaperHDIDES.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoNovo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_sistemaTest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Register1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relatorios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoff1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aluno1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teachers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Courses-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clipboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clasee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Word.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PowerPoint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paint-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Internet-Explorer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Google-Chrome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows_Explorer_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows-Media-Playe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relatoriosNovo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consultanovo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consultaazul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turmasnovo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turmalaranja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Classroom-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1477558232_accessories-calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webcam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NovoCadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NovoAluno.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newAluno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\snapshot-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MatriculaNovo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edição.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletarCadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Corel-Draw-X4-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit novo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit 48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newStudent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adicionar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

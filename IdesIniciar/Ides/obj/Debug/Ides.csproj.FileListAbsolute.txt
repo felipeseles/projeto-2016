@@ -1,0 +1,545 @@
+H:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+H:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+H:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+H:\tcc felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+H:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+C:\Users\Douglas Oliveira\Desktop\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+K:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+K:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+K:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+K:\tcc felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+K:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+J:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+J:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+J:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+J:\tcc felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+E:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+E:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+E:\tcc felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+E:\tcc felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+E:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+J:\tcc felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+F:\TCC\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+J:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+J:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+J:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+J:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+J:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+E:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+E:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+E:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+E:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+E:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+F:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+F:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+F:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+F:\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+F:\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+J:\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+C:\Users\Lipe\Desktop\Nova pasta\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Usuário.frmEditarUsuario.resources
+G:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+J:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+F:\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.cache
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.compiled
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioCurso.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioAluno.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioProfessor.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioTurma.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioUsuario.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioMatricula.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmConfiguracao.resources
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\AForge.Video.dll
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\AForge.dll
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\AForge.Video.xml
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Lipe\Desktop\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\AForge.xml
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmConfiguracao.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioMatricula.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioTurma.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioUsuario.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioAluno.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioCurso.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioProfessor.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.cache
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.compiled
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+D:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmConfiguracao.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioMatricula.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioTurma.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioUsuario.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioAluno.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioCurso.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioProfessor.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.cache
+J:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.compiled
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmConfiguracao.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioMatricula.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioTurma.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioUsuario.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioAluno.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioCurso.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioProfessor.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.cache
+F:\Relatorios\tcc felipe para felipe\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.compiled
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmConfiguracao.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioMatricula.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioTurma.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioUsuario.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioAluno.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioCurso.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioProfessor.resources
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.cache
+C:\Users\Lipe\Desktop\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.compiled
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe.config
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.exe
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Ides.pdb
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\bin\Debug\Utilidades.dll
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csprojResolveAssemblyReference.cache
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmConfiguracao.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioMatricula.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioTurma.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioUsuario.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioAluno.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioCurso.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioProfessor.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.Cache
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.cache
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\RdlCompile.compiled
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.AssemblyReference.cache
+D:\Meus Arquivos\not\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.CoreCompileInputs.cache
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.AssemblyReference.cache
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmConfiguracao.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioMatricula.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioTurma.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioUsuario.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioAluno.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioCurso.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioProfessor.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.cache
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.csproj.CoreCompileInputs.cache
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.exe
+C:\Users\lipea\OneDrive\Documentos\tcc felipe para felipe\IdesIniciar\Ides\obj\Debug\Ides.pdb
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.csproj.AssemblyReference.cache
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmConfiguracao.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioMatricula.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioTurma.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioUsuario.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.Properties.Resources.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroAluno.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.Aluno.frmCadastroSimplesAluno.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.Consulta.frmConsultas.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmExcluir.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioAluno.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioCurso.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmRelatorioProfessor.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmWebCam.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCadastroUsuario.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmCurso.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.frmLogin.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMatricula.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmMensagem.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmProfessor.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTelaPrincipal.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.UI.frmTurma.resources
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.csproj.GenerateResource.cache
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.csproj.CoreCompileInputs.cache
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.exe
+C:\Users\lipea\OneDrive\Documentos\tcc etec\IdesIniciar\Ides\obj\Debug\Ides.pdb
